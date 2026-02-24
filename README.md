@@ -1,6 +1,6 @@
 # Neovim Configuration Help Guide
 
-This document provides a comprehensive overview of all plugins installed in your Neovim configuration, their keybindings, and how to use them effectively.
+This document provides a comprehensive overview of all plugins installed in the Neovim configuration, their keybindings, and how to use them effectively.
 
 **Leader Key: `<Space>`**
 
